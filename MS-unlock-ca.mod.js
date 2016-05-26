@@ -1,16 +1,17 @@
-//==============================================================================
+//===================================================================================
 // Name			:   Microsoft Unlock Edition
 // Author      		: 	adguard and nummerok (WZT)
 // Website	    	:	http://rg-adguard.net/
 // Version  		:   1.0.10
 // Description	: 	Script for opening access to all available images on this page!
 // Original script	:	http://rg-adguard.net/dl/script/MS-unlock.js
-//==============================================================================
-//==============================================================================
-// This is a mod version by JaszAndre made from @adguard's original script (v1.0.10). All credit goes to the original authors.
+//===================================================================================
+//===================================================================================
+// This is a mod version by JaszAndre made from @adguard's original script (v1.0.10).
+// All credit goes to the original authors.
 // New css styles applied. Notes and descriptions for every download were included.
 // http://blog-conocimientoadictivo.blogspot.com/
-//==============================================================================
+//===================================================================================
 
 (function() {
     'use strict';
