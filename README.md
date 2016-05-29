@@ -21,10 +21,12 @@ Para conocer el proceso pueden visitar [nuestra publicación aquí] (http://blog
 
 ## Capturas de pantalla
 
-![img-1](https://lh3.googleusercontent.com/-hSkKmuIestI/V0aZm_oFf1I/AAAAAAAABts/NzETuApjiOAVxtHzTjsMCaQOn96z3LOlACCo/s680/captura-1.png)
+![imgn-1](https://lh3.googleusercontent.com/-cICdurVVzNE/V0tvEobP-aI/AAAAAAAABuI/F86xBNoZOdwgDnRtqTqbrxSe6pUmxP6dQCCo/s1600/shot_1.png)
 
-![img-2](https://lh3.googleusercontent.com/-ohALMhh3G9g/V0aZm593qrI/AAAAAAAABto/A1esHqL6lxgxObL02XRNvWdD7-eF8CHtACCo/s680/captura-2.png)
+![imgn-2](https://lh3.googleusercontent.com/-equ0v9-cswg/V0tvEQ07CxI/AAAAAAAABuE/T-rHORdpTzsXbE8qmV5MD5QgSpDnRitOACCo/s1600/shot_2.png)
 
-![img-3](https://lh3.googleusercontent.com/-D1dgIwasjvs/V0aZmYipLjI/AAAAAAAABt4/vPphXZLfBSIyQ3ZKUGvqRI57xG6L3IqEQCCo/s680/captura-3.png)
+![imgn-3](https://lh3.googleusercontent.com/-z-0Ay804lpg/V0tvEn9rm_I/AAAAAAAABuM/-6yAJvuKmbc-SRTJ7CnyCvgp_pW4yJj_gCCo/s1600/shot_3.png)
 
-![img-4](https://lh3.googleusercontent.com/-Hfr9Ko3Lxsk/V0aZnJjMuFI/AAAAAAAABt4/LbXl9br8jhMg7OTd8fT6ztDBbGpShQsdwCCo/s680/captura-4.png)
+![imgn-4](https://lh3.googleusercontent.com/-CizZYY6DJvQ/V0tvE1lHf-I/AAAAAAAABuQ/RvP3oMSKhyUglcw7l01c7S8Le5fcewslQCCo/s1600/shot_4.png)
+
+![imgn-5](https://lh3.googleusercontent.com/-D4dhOlr8qdk/V0tvE4BSjUI/AAAAAAAABuU/9A2Mp1Lt52gzp_N31HChbT-vVVf1zw_tACCo/s1600/shot_5.png)
